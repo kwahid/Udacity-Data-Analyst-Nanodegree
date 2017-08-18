@@ -1,2 +1,2 @@
-# Udacity-Data-Analyst-Nanodegree-Investigate-a-dataset
-For Udacity Data Analyst Nanodegree. 
+# Udacity-Data-Analyst-Nanodegree
+Projects and files for Udacity Data Analyst Nanodegree. 
